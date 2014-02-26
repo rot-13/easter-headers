@@ -15,13 +15,14 @@ gem "easter_headers"
 Then, create an initializer (`config/initializers/easter_headers.rb`, for example), and initialize the values you want there:
 
 ````
-EasterHeaders::init('X-Dog', 'Marti')
+EasterHeaders::init('X-Valar', 'Morghulis')
 ````
 
 You're done:
 
-
 ![image](screenshot.png)
+
+As usual with initializers, if you change any of the header values, you'll need to restart the server.
 
 
 
