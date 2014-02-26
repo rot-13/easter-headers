@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = EasterHeaders::VERSION
   s.authors     = ["Gilad Goldberg"]
   s.email       = ["giladgo@gmail.com"]
-  s.homepage    = "http://null/"
+  s.homepage    = "https://github.com/iic-ninjas/easter-headers"
   s.summary     = "Add fun HTTP headers to your rails app"
   s.description = "A small gem which adds harmless HTTP response headers to your app as easter eggs."
 
